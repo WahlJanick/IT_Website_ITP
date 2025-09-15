@@ -1,3 +1,17 @@
 * {
 	font-family: Arial;
 }
+body {
+	margin: 4px;
+	background-color: coral;
+}
+header {
+	position: sticky;
+	top: 0;
+	margin: 4px;
+}
+footer {
+	position: sticky;
+	bottom: 0;
+	margin: 4px;
+}
