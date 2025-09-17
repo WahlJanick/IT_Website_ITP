@@ -1,4 +1,4 @@
-# IT_Website_ITP
+# IT Website in ITP
 Project for ITP 2025 2026 3AHIT - Website for the IT-Department of the [Höhere technische Bundeslehr- und Versuchsanstalt Waidhofen an der Ybbs](de.wikipedia.org/wiki/HTLWY) (47° 57' 2" N, 14° 47' 8" O).
 
 ## group division
@@ -25,4 +25,4 @@ Project for ITP 2025 2026 3AHIT - Website for the IT-Department of the [Höhere t
 
 [GitHub Seite (von Janick Wahl)](https://github.com/WahlJanick/IT_Website_ITP)
 
-_2025-09-15 ~14:55 - 2025-09-17 ~22:55_
+_2025-09-15 ~14:50 - 2025-09-17 22:55_
