@@ -8,10 +8,39 @@ body {
 header {
 	position: sticky;
 	top: 0;
-	margin: 4px;
+	margin-bottom: 12px;
+	padding: 4px;
+	border-bottom: solid black 1px;
 }
 footer {
 	position: sticky;
 	bottom: 0;
-	margin: 4px;
+	margin-top: 12px;
+	padding: 4px;
+	border-top: solid black 1px;
+}
+section {
+	margin-top: 16px;
+	margin-bottom: 16px;
+	padding: 4px;
+}
+h1, h2, h3, h4 {
+	margin: 0;
+}
+a {
+	color: black;
+	text-decoration-color: darkblue;
+}
+a:hover {
+	color: blue;
+	text-decoration-line: underline;
+	text-decoration-color: blue;
+}
+ul {
+	margin: 0;
+	padding-left: 18px;
+}
+ol {
+	margin: 0;
+	padding-left: 20px;
 }
